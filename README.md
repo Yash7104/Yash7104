@@ -29,7 +29,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=4" alt="Tech Stack Icons" />
   </a>
 </p>
 
