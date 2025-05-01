@@ -49,6 +49,12 @@
   </a>
 </p>
 
+## 📚 Learning Now:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mongodb&perline=4" alt="Learning Icons" />
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash7104&theme=neon&hide_border=false)<br/>
