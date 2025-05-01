@@ -12,6 +12,11 @@
   </a>
 </p>
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Yash7104.Yash7104)
+
+[![Follow](https://img.shields.io/github/followers/Yash7104?label=Follow&style=social)](https://github.com/Yash7104)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Frontend programming languages.<br>
 🌱 I’m learning React JS.<br>
