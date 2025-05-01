@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&center=true&width=480&lines=Hello+World,+Yash+Here;Frontend+Developer" alt="Typing SVG" />
 </p>
@@ -25,12 +24,28 @@
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@100solution)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashindianraj12@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashindianraj12@gmail.com) 
 
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git&perline=5" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+## 🛠 Tools I Use:
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://openai.com/chatgpt">
+    <img src="https://skillicons.dev/icons?i=openai" alt="ChatGPT" />
   </a>
 </p>
 
@@ -41,8 +56,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yash7104&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yash7104&limit=5&theme=neon&combine_all_yearly_contributions=true)
