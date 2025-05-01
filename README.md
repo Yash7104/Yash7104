@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://Yash7104.github.io/Portfolio/" target="_blank">
+  <a href="yash7104.github.io/Protfolio/" target="_blank">
     <img height="100" width="300" src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg" alt="Portfolio" />
   </a>
 </p>
