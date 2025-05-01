@@ -11,10 +11,10 @@
     <img height="100" width="300" src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg" alt="Portfolio" />
   </a>
 </p>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Yash7104.Yash7104)
-
-[![Follow](https://img.shields.io/github/followers/Yash7104?label=Follow&style=social)](https://github.com/Yash7104)
+ <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yash7104&color=red" ></img>
+<a href="https://github.com/rajvaidyanath27"> <img src="https://img.shields.io/github/followers/Yash7104?label=follow&style=social"></img> </a>
+</p>
 
 
 # 💫 About Me:
