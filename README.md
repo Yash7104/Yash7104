@@ -23,8 +23,14 @@
 ⚡ Fun fact: I study in class 8 and enjoy coding!<br>
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@100solution)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashindianraj12@gmail.com) 
+<p align="center">
+  <a href="https://www.youtube.com/@100solution" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:yashindianraj12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -49,22 +55,43 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yash7104&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📚 Currently Learning
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" height="60" width="60" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="60" width="60" />
+  </a>
+</p>
+
+<hr>
+
+## 📊 GitHub Stats:
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Yash7104&theme=neon&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yash7104&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=Yash7104&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash7104&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<p align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=Yash7104&limit=5&theme=neon&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yash7104&icon=6&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=Yash7104&icon=6&color=0)](https://visitcount.itsvg.in)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Yash/Yash7104 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
+
