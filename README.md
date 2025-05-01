@@ -17,15 +17,30 @@
 </p>
 
 
-# 💫 About Me:
-🔭 I’m currently working on Frontend programming languages.<br>
-🌱 I’m learning React JS.<br>
-🌐 I love making websites using HTML, CSS, and JavaScript.<br>
-🤝 I’m looking for help with my Portfolio.<br>
-👨‍💻 Explore all my projects at GitHub @Yash7104!<br>
-💬 Ask me about HTML, CSS, and JavaScript.<br>
-📫 Reach me at yashindianraj12@gmail.com.<br>
-⚡ Fun fact: I study in class 8 and enjoy coding!<br>
+## 👋 Hey there, I'm Yash!
+
+💡 **Frontend Developer in the making**  
+🎓 Currently studying in **Class 8** and learning how to build beautiful websites!  
+💻 I love working with **HTML**, **CSS**, and **JavaScript**.  
+⚛️ Learning **React JS** to create powerful web apps.  
+🧠 Always curious to learn more and improve my skills.  
+📁 Check out my projects on [GitHub @Yash7104](https://github.com/Yash7104)  
+🌐 See my work live: [My Portfolio](https://yash7104.github.io/Protfolio/)  
+📩 Want to connect? Reach me at **yashindianraj12@gmail.com**
+
+---
+
+### 🔍 Fun Facts About Me
+- 👦 I'm in school but already diving deep into frontend development!
+- 🧩 I enjoy solving problems and building cool stuff.
+- 🤖 I use **ChatGPT** to learn new things and fix bugs faster.
+- 🧠 I'm a fast learner, always ready for new challenges!
+
+---
+
+### 📣 Ask Me Anything!
+> I'm happy to share what I know — whether it's about coding, my journey, or building websites. Just drop a message!
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@100solution)
