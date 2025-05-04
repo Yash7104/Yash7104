@@ -71,7 +71,7 @@
 
 ## 📚 Learning Now:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb&perline=4" alt="Learning Icons" />
+  <img src="https://skillicons.dev/icons?i=react&perline=4" alt="Learning Icons" />
 </p>
 
 
