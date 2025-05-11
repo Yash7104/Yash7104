@@ -38,9 +38,6 @@
 
 ---
 
-### 📣 Ask Me Anything!
-> I'm happy to share what I know — whether it's about coding, my journey, or building websites. Just drop a message!
-
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@100solution)
