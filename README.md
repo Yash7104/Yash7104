@@ -39,10 +39,6 @@
 ---
 
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@100solution)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashindianraj12@gmail.com) 
-
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -66,10 +62,6 @@
   </a>
 </p>
 
-## 📚 Learning Now:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react&perline=4" alt="Learning Icons" />
-</p>
 
 
 # 📊 GitHub Stats:
