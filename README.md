@@ -13,7 +13,7 @@
 </p>
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Yash7104&color=red" ></img>
-<a href="https://github.com/rajvaidyanath27"> <img src="https://img.shields.io/github/followers/Yash7104?label=follow&style=social"></img> </a>
+<a href="https://github.com/Yash7104"> <img src="https://img.shields.io/github/followers/Yash7104?label=follow&style=social"></img> </a>
 </p>
 
 
@@ -69,14 +69,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Yash7104&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yash7104&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yash7104&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Yash7104&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
