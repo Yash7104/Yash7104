@@ -22,7 +22,7 @@
 💡 **Frontend Developer in the making**  
 🎓 Currently studying in **Class 8** and learning how to build beautiful websites!  
 💻 I love working with **HTML**, **CSS**, and **JavaScript**.  
-⚛️ Learning **Node js** to create powerful web apps.  
+⚛️ Learning **React.js** to create powerful web apps.  
 🧠 Always curious to learn more and improve my skills.  
 📁 Check out my projects on [GitHub @Yash7104](https://github.com/Yash7104)  
 🌐 See my work live: [My Portfolio](https://yash7104.github.io/Protfolio/)  
