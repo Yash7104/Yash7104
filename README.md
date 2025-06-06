@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&center=true&width=480&lines=Hello+World,+Yash+Here;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&center=true&width=480&lines=<Hello+World,+Yash+Here>;Frontend+Developer" alt="Typing SVG" />
 </p>
 
 
