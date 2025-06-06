@@ -1,21 +1,23 @@
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&center=true&width=480&lines=Hello+World,+Yash+Here;Frontend+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
-</p>
+
 
 <p align="center">
   <a href="https://yash7104.github.io/Protfolio/" target="_blank">
     <img height="100" width="300" src="https://thumbs.dreamstime.com/b/portfolio-text-written-over-colorful-background-portfolio-business-texture-colorful-blocks-195693092.jpg" alt="Portfolio" />
   </a>
 </p>
- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yash7104&color=red" ></img>
-<a href="https://github.com/Yash7104"> <img src="https://img.shields.io/github/followers/Yash7104?label=follow&style=social"></img> </a>
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash7104&color=red" />
+  <a href="https://github.com/Yash7104">
+    <img src="https://img.shields.io/github/followers/Yash7104?label=follow&style=social" />
+  </a>
+</p>
 
 ## 👋 Hey there, I'm Yash!
 
@@ -29,8 +31,6 @@
 📩 Want to connect? Reach me at **yashindianraj12@gmail.com**
 
 ---
-
-
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -54,8 +54,6 @@
     <img src="https://skillicons.dev/icons?i=openai" alt="ChatGPT" />
   </a>
 </p>
-
-
 
 # 📊 Languages:
 
