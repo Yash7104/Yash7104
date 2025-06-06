@@ -30,13 +30,6 @@
 
 ---
 
-### 🔍 Fun Facts About Me
-- 👦 I'm in school but already diving deep into frontend development!
-- 🧩 I enjoy solving problems and building cool stuff.
-- 🤖 I use **ChatGPT** to learn new things and fix bugs faster.
-- 🧠 I'm a fast learner, always ready for new challenges!
-
----
 
 
 ## 💻 Tech Stack:
@@ -64,9 +57,8 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yash7104&theme=neon&hide_border=false)<br/>
+# 📊 Languages:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7104&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
