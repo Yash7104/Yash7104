@@ -62,8 +62,6 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!---
 Yash/Yash7104 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
