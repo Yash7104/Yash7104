@@ -25,8 +25,7 @@
 🎓 Currently studying in **Class 8** and learning how to build beautiful websites!  
 💻 I love working with **HTML**, **CSS**, and **JavaScript**.  
 ⚛️ Learning **React.js** to create powerful web apps.  
-🧠 Always curious to learn more and improve my skills.  
-📁 Check out my projects on [GitHub @Yash7104](https://github.com/Yash7104)  
+🧠 Always curious to learn more and improve my skills.   
 🌐 See my work live: [My Portfolio](https://yash7104.github.io/Protfolio/)  
 📩 Want to connect? Reach me at **yashindianraj12@gmail.com**
 
@@ -35,7 +34,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=4" alt="Tech Stack Icons" />
   </a>
 </p>
 
