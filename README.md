@@ -23,8 +23,8 @@
 
 💡 **Frontend Developer in the making**  
 🎓 Currently studying in **Class 8** and learning how to build beautiful websites!  
-💻 I love working with **HTML**, **CSS**, and **JavaScript**.  
-⚛️ Learning **React.js** to create powerful web apps.  
+💻 I love working with **HTML**, **CSS**, and **JavaScript**.   
+🗺 Currently learning nothing
 🧠 Always curious to learn more and improve my skills.   
 🌐 See my work live: [My Portfolio](https://yash7104.github.io/Protfolio/)  
 📩 Want to connect? Reach me at **yashindianraj12@gmail.com**
