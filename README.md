@@ -26,7 +26,7 @@
 💻 I love working with **HTML**, **CSS**, and **JavaScript**.   
 🗺 Currently learning nothing.    
 🧠 Always curious to learn more and improve my skills.   
-🌐 See my work live: [My Portfolio](https://yash7104.github.io/Protfolio/)  
+🌐 See my work live: [My Portfolio](https://yash7104.github.io/Portfolio-new/)  
 📩 Want to connect? Reach me at **yashindianraj12@gmail.com**
 
 ---
